@@ -1,0 +1,18 @@
+@import url("styles/banner.css");
+@import url("styles/header.css");
+@import url("styles/carrossel.css");
+
+/* código omitido */
+
+
+:root {
+    --cor-de-fundo: #EBECEE;
+    --branco: #FFFFFF;
+    --laranja: #eb00a1;
+    --azul-degrade: linear-gradient(97.54deg, #440052 35.49%, #5700a3 165.37%);
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    --fonte-secundaria: "Josefin Sans";
+}
